@@ -26,7 +26,9 @@
   <br />
   <br />
   <br />
-    <br />
+  <br />
+  <br />
+  <br />
   <br />
   <br />
 </div>
@@ -34,7 +36,6 @@
 <div>
   <h2 align="center">📖 Knowledge 📖</h2>
   <img align="right" src="https://media.giphy.com/media/dzHzdMctT3jNu/giphy.gif" alt="Slam Dunk" height="300px"/>
-  <br />
   <h4>Work/Production Experience:</h4>
   <div align="center">
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css"/>
